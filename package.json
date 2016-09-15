@@ -1,0 +1,16 @@
+{
+  "name": "colorspace-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorspace-finder.js",
+  "scripts": {
+    "go": "node colorspace-finder.js"
+  },
+  "author": "Kennedy Rose <kennedy@kennedyrose.com> (http://kennedyrose.com)",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^3.0.1",
+    "glob": "^7.0.6",
+    "node-imagemagick": "^0.1.8"
+  }
+}
